@@ -1,4 +1,6 @@
-# Responsive-Web-Design: Fully Responsive
+# 0046_lsw2b_responsive_web_design_II
+
+## Responsive-Web-Design: Fully Responsive
 
 You have experienced building fixed layout web pages, adaptive web pages, and now it's time to go fully responsive!  Using your new knowledge with responsive units, contstraints, and media queries you are now prepared to take on today's fully reponsive website project.
 
